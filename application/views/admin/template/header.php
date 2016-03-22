@@ -64,7 +64,7 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="admin/carica_persona"><i class="fa fa-fw fa-table"></i> Iscritti</a>
+                        <a href="admin_utente/index"><i class="fa fa-fw fa-table"></i> Iscritti</a>
                     </li>
                     <li>
                         <a href="admin/carica_gioco"><i class="fa fa-fw fa-table"></i> Giochi</a>
